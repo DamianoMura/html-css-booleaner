@@ -43,6 +43,10 @@ h5 {
 /* /heading styling*/
 
 /*text styling*/
+ul {
+  padding-left: 15px;
+}
+
 .article span {
   background-color: yellow;
 }
