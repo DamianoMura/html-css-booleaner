@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+
+div {
+  padding: 20px;
+}
+
+/*heading styling*/
+
+h1,
+h3,
+h5 {
+  margin: 0;
+
+}
+
+h3,
+h5 {
+  color: #9F9F9F;
+}
+
+#author {
+  color: #589bb9;
+}
+
+/*sfondo colorato + logo*/
+#banner {
+  background-color: #4EA1FF;
+  background-image: url(../img/pattern.png);
+  height: 130px;
+}
+
+#banner img {
+  padding-top: 40px;
+  height: 80px;
+}
+
+/* /heading styling*/
