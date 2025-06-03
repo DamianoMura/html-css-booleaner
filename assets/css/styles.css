@@ -42,11 +42,33 @@ h5 {
 
 /* /heading styling*/
 
-/*text styling*/
+/*article styling*/
 ul {
   padding-left: 15px;
 }
 
 .article span {
   background-color: yellow;
+}
+
+/* table color styling*/
+table {
+  border-collapse: collapse;
+}
+
+table th {
+  background-color: #21A9E6;
+  color: white;
+}
+
+table tr:nth-child(odd) {
+  background-color: #B1E6F2;
+}
+
+table td:last-child {
+  width: 50%;
+}
+
+table th {
+  text-align: left;
 }
