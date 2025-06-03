@@ -3,7 +3,7 @@ body {
 }
 
 div {
-  padding: 20px;
+  padding: 10px;
 }
 
 /*heading styling*/
@@ -32,8 +32,12 @@ h5 {
 }
 
 #banner img {
-  padding-top: 40px;
+  padding-top: 50px;
   height: 80px;
+}
+
+#head-photos span {
+  font-size: 80%;
 }
 
 /* /heading styling*/
