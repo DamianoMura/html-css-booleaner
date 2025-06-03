@@ -1,5 +1,4 @@
 # esercizio 03/06/2025 classe 147 Boolean
-===
 ### html-css-booleaner
 Riproducete il layout dell'immagine allegata utilizzando ciò che abbiamo visto stamattina aiutandovi con le slide, video e documentazione.
 Come l'esercizio scorso e d'ora in avanti sempre, faremo questo:
