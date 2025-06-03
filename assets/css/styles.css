@@ -82,6 +82,6 @@ footer span {
   padding-left: 10px;
 }
 
-footer p {
-  margin: 0;
+footer h5 {
+  font-weight: bold;
 }
