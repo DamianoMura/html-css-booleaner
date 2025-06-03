@@ -43,3 +43,6 @@ h5 {
 /* /heading styling*/
 
 /*text styling*/
+.article span {
+  background-color: yellow;
+}
